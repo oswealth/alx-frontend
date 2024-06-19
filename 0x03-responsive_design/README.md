@@ -1,0 +1,3 @@
+**Responsive design**
+
+<img width=50% src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/4fe027a0c298339cb4cb.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240619%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240619T182416Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a5d4a9653a0d50e9001e579c619f7b2e3b9677f28fe4931df199a47dd387e6a5">
